@@ -1,0 +1,7 @@
+MsAdolescente\web\impl\AdolescenteServiceImplCreateTest.class
+Selenium\PrimerTest.class
+MsAdolescente\domain\mapper\AdolescenteMapperTest1.class
+MsAdolescente\web\AdolescenteControllerFindByIdTest.class
+com\example\MsAdolescente\MsAdolescenteApplicationTests.class
+MsAdolescente\domain\mapper\AdolescenteMapperTest2.class
+MsAdolescente\web\impl\AdolescenteServiceImplTest.class
